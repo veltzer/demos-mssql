@@ -1,0 +1,5 @@
+
+https://dbafromthecold.com/2022/05/13/install-mssql-cli-on-ubuntu-22-04/ <- this one is good
+https://freegistutorial.com/how-to-install-sql-server-2022-on-ubuntu-22-10/ <- this one is good
+https://www.mssqltips.com/sqlservertip/5305/installing-and-using-mssqlcli-on-linux-for-sql-server/
+https://www.dbblogger.com/post/install-sql-server-2022-on-ubuntu-in-5-minutes
