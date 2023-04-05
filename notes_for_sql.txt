@@ -1,0 +1,2 @@
+ssms is the dev environment.
+sql server 2019 is the main system to teach.
